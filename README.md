@@ -1,5 +1,4 @@
 
-new_readme_content = """
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋%20I'm%20Sarah&fontSize=70)
 
 ## ABOUT ME
@@ -10,7 +9,7 @@ new_readme_content = """
 - 🎓 College student
 - 🌱 Studying Computer Science
 - 🤔 Looking for open source to contribute
-- 📫 How to reach me: Samalshumayri@effat.edu.sa
+- 📫 How to reach me: [Samalshumayri@effat.edu.sa](mailto:Samalshumayri@effat.edu.sa)
 - 🎨 Graphic designer
 - 📈 Looking to improve my skills
 
@@ -30,8 +29,4 @@ new_readme_content = """
 
 ## CONNECT WITH ME
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-alshumayri/)
-"""
-
-# Displaying the first part of the new README for review
-new_readme_content[:1000]  # Displaying a portion for review
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-alshumayri-079b28264/)
