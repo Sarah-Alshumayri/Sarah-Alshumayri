@@ -9,7 +9,7 @@
 - 🎓 College student
 - 🌱 Studying Computer Science
 - 🤔 Looking for open source to contribute
-- 📫 How to reach me: [Samalshumayri@effat.edu.sa](mailto:Samalshumayri@effat.edu.sa)
+- 📫 How to reach me: [samalshumayri@gmail.com ](mailto:Samalshumayri@gmail.com)
 - 🎨 Graphic designer
 - 📈 Looking to improve my skills
 
