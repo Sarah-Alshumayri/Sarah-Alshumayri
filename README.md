@@ -6,8 +6,7 @@
 :raising_hand: I'm a junior computer science student, working on developing my skills, wishing to work on Cyber Security and Data Science projects. Enjoys data visualization and manipulation.  
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-- 🎓 College student
-- 🌱 Studying Computer Science
+- 🎓 Computer Science specialized in Cyber Security 
 - 🤔 Looking for open source to contribute
 - 📫 How to reach me: [samalshumayri@gmail.com ](mailto:Samalshumayri@gmail.com)
 - 🎨 Graphic designer
@@ -29,12 +28,20 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=matlab)
+![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=mathworks)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![Nmap](https://img.shields.io/badge/-Nmap-333333?style=flat&logo=nmap)
+![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
+![Nessus](https://img.shields.io/badge/-Nessus-333333?style=flat)
+![FTK Imager](https://img.shields.io/badge/-FTK%20Imager-333333?style=flat)
+![Autopsy](https://img.shields.io/badge/-Autopsy-333333?style=flat)
+
 
 ## CONNECT WITH ME
 
