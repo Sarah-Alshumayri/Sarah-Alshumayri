@@ -3,7 +3,7 @@
 
 ## ABOUT ME
 
-:raising_hand: I'm a junior computer science student, working on developing my skills, wishing to work on Cyber Security and Data Science projects. Enjoys data visualization and manipulation.  
+:raising_hand: I'm a recent Computer Science graduate with a strong foundation in Cyber Security and Data Science. I enjoy working on projects involving data visualization, analysis, and system security, and I'm eager to apply and expand my skills in real-world environments.  
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 - 🎓 Computer Science specialized in Cyber Security 
